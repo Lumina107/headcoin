@@ -84,12 +84,12 @@ h6 {
   background-position: center;
 }
 
-/* .about {
-  background-image: url("../assets/gifs/Website-BGgif.gif");
+.about {
+  background-image: url("../assets/gifs/website-bg.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-} */
+}
 
 #faq {
   background-image: url("../assets/gifs/About-us.gif");
