@@ -29,19 +29,19 @@ export default function Faq() {
 
 const Questions = [
     {
-        label: 'is this like other meme coins?',
-        answer: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ex itaque harum eligendi tempore sunt dolorum id quos. Deleniti, ex.'
+        label: 'Does brain have bigger nuts than a head? ',
+        answer: 'Yes.'
     },
     {
-        label: 'is this like other meme coins?',
-        answer: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ex itaque harum eligendi tempore sunt dolorum id quos. Deleniti, ex.'
+        label: 'Is this a cabal play? ',
+        answer: 'Use your brain anon.'
     },
     {
-        label: 'is this like other meme coins?',
-        answer: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ex itaque harum eligendi tempore sunt dolorum id quos. Deleniti, ex.'
+        label: 'Wen launch? ',
+        answer: 'Soon.'
     },
     {
-        label: 'is this like other meme coins?',
-        answer: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ex itaque harum eligendi tempore sunt dolorum id quos. Deleniti, ex.'
+        label: 'Should I ape my life savings?',
+        answer: 'NO YOU JEET.'
     },
 ]

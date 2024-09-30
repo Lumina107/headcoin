@@ -7,7 +7,7 @@ import CapGuy from './../assets/gifs/capguy.png';
 
 export default function About() {
     return (
-        <section className='px-6 md:px-14 lg:px-24 py-20 space-y-20 md:space-y-40 relative'>
+        <section className='about px-6 md:px-14 lg:px-24 py-20 space-y-20 md:space-y-40 relative'>
             <div className="bg-[#478CEC]/45 py-20 px-6 md:px-14 rounded-3xl md:rounded-[40px] flex flex-col items-center gap-10 relative z-10">
                 <Image
                     sizes='100%'

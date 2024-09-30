@@ -84,6 +84,13 @@ h6 {
   background-position: center;
 }
 
+/* .about {
+  background-image: url("../assets/gifs/Website-BGgif.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} */
+
 #faq {
   background-image: url("../assets/gifs/About-us.gif");
   background-repeat: no-repeat;
