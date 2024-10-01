@@ -3,7 +3,7 @@ import React from 'react'
 import AboutImg from "@/assets/svg/about.svg";
 import TokenImg from "@/assets/svg/token.svg";
 import { AnimatedSubscribeButton } from './magicui/animated-subscribe-button';
-import CapGuy from './../assets/gifs/capguy.png';
+import CapGuy from './../assets/gifs/capguy.gif';
 
 export default function About() {
     return (
