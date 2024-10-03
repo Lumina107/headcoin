@@ -70,6 +70,7 @@
 
 body {
   background: #226ce6;
+  scroll-behavior: smooth !important;
 }
 
 h1,

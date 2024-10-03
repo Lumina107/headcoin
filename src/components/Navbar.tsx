@@ -33,7 +33,7 @@ export default function Navbar() {
                                 },
                                 {
                                     hash: 'Tokenomics',
-                                    url: '#how-to-buy'
+                                    url: '#token'
                                 },
                                 {
                                     hash: 'FAQ',

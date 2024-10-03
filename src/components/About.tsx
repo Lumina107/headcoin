@@ -7,7 +7,7 @@ import CapGuy from './../assets/gifs/capguy.gif';
 
 export default function About() {
     return (
-        <section className='about px-6 md:px-14 lg:px-24 py-20 space-y-20 md:space-y-40 relative'>
+        <section className='about px-6 md:px-14 lg:px-24 py-20 space-y-20 md:space-y-40 relative' id='about'>
             <div className="bg-[#478CEC]/45 py-20 px-6 md:px-14 rounded-3xl md:rounded-[40px] flex flex-col items-center gap-10 relative z-10">
                 <Image
                     sizes='100%'
@@ -15,8 +15,11 @@ export default function About() {
                     src={AboutImg}
                     className='h-auto md:h-20 w-3/4 mx-auto md:w-auto'
                 />
-                <p className='max-w-4xl text-center text-xl md:text-3xl lg:text-[34px] leading-[1.5] md:leading-[1.5]'>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum  standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum  standard dummy text ever since the 1500s.
+                <p className='max-w-2xl text-center text-xl md:text-3xl lg:text-[34px] leading-[1.5] md:leading-[1.5] capitalize'>
+                    big ego, huge gains & a super fat head.
+
+
+                    Solana Summer is over, ETH Winter is here.
                 </p>
 
                 <AnimatedSubscribeButton
@@ -29,7 +32,7 @@ export default function About() {
                 />
 
             </div>
-            <div className="bg-[#478CEC]/45 px-6 rounded-3xl md:rounded-[40px] grid md:grid-cols-2 items-end gap-10 relative z-10">
+            <div className="bg-[#478CEC]/45 px-6 rounded-3xl md:rounded-[40px] grid md:grid-cols-2 items-end gap-10 relative z-10" id='token'>
                 <div className="flex items-end">
                     <Image
                         sizes='100%'
