@@ -18,7 +18,7 @@ const chivo = Chivo({
 })
 
 export const metadata: Metadata = {
-  title: "$Brain",
+  title: "$Head",
   description: "An ugly mfer with a really fat head & low brain compute power.",
 };
 
